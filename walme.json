@@ -1,0 +1,391 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"1"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Movies",
+      "image": "https://i.pinimg.com/564x/7a/b4/d6/7ab4d616e2fbc2a2be5c1b791aee143c.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Teen Wallpaper",
+      "image": "https://i.pinimg.com/736x/3a/5d/1e/3a5d1edb339a0359321ca2273299fbf1.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Aesthetic",
+      "image": "https://i.pinimg.com/564x/cc/cf/fd/cccffd565490fa9ae2c9bb4b66a4d760.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Music",
+      "image": "https://i.pinimg.com/564x/8e/4a/9c/8e4a9c1bee1edae807461180e9d1de78.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Superhero",
+      "image": "https://i.pinimg.com/564x/69/fb/96/69fb96ab138323e62c2bac47eee08456.jpg"
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Movies",
+      "title":"Stranger Things1",
+      "image":"https://i.pinimg.com/564x/7a/b4/d6/7ab4d616e2fbc2a2be5c1b791aee143c.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Movies",
+      "title":"Peaky Blinders",
+      "image":"https://i.pinimg.com/564x/01/57/c4/0157c45810cb77bbd9d4ace6a92d580b.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Movies",
+      "title":"Iron Man",
+      "image":"https://i.pinimg.com/564x/85/e8/91/85e89106cf97600185241cf81c988a62.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Movies",
+      "title":"Loki",
+      "image":"https://i.pinimg.com/564x/dc/9a/a5/dc9aa595b31d015405ade556f169d5bb.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Movies",
+      "title":"Jack Sparrow",
+      "image":"https://i.pinimg.com/564x/ef/ee/e4/efeee45a55e4d873bf4de0290658b4df.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Movies",
+      "title":"Up",
+      "image":"https://i.pinimg.com/564x/c3/ef/1c/c3ef1cd6b1131a06ec7b7bed2aa5a9ad.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Movies",
+      "title":"Oscar",
+      "image":"https://i.pinimg.com/564x/f3/28/05/f328057ee4f4e1d83785f233fb6b0e57.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Movies",
+      "title":"Joker",
+      "image":"https://i.pinimg.com/564x/5f/7e/e3/5f7ee310abb7b78960de8614ba630c92.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Movies",
+      "title":"John Wick",
+      "image":"https://i.pinimg.com/564x/81/a0/2f/81a02f99506f76bcec87a9172fbd2d09.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Movies",
+      "title":"Batman",
+      "image":"https://i.pinimg.com/564x/2e/81/33/2e8133065f72005f5ddeb0f74697aa69.jpg"
+    },
+
+
+
+    {
+      "id":11,
+      "name_category": "Teen Wallpaper",
+      "title":"Do it later",
+      "image":"https://i.pinimg.com/564x/ac/a7/21/aca7217309a641879e0daea1b00174f6.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Teen Wallpaper",
+      "title":"Password",
+      "image":"https://i.pinimg.com/564x/ac/cf/eb/accfeb7f41063899c14086a380b8072d.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Teen Wallpaper",
+      "title":"dont touch",
+      "image":"https://i.pinimg.com/736x/3a/5d/1e/3a5d1edb339a0359321ca2273299fbf1.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Teen Wallpaper",
+      "title":"kevin lock",
+      "image":"https://i.pinimg.com/736x/d3/c6/58/d3c65894cd6aa9faeee8cdf01908e994.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Teen Wallpaper",
+      "title":"cat",
+      "image":"https://i.pinimg.com/564x/7a/a9/53/7aa9539d448e90b7f51293dd3717e025.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Teen Wallpaper",
+      "title":"squidy",
+      "image":"https://i.pinimg.com/736x/eb/80/a4/eb80a4442d1974d7ea66c70f4ba7f20d.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Teen Wallpaper",
+      "title":"Password2",
+      "image":"https://i.pinimg.com/564x/16/f8/3e/16f83ece1c84617d3db0fa0059fa5b82.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Teen Wallpaper",
+      "title":"dont touch2",
+      "image":"https://i.pinimg.com/564x/37/3f/ff/373fffa00e9a39d0d177f217417cfca5.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Teen Wallpaper",
+      "title":"dont touch3",
+      "image":"https://i.pinimg.com/564x/f5/28/60/f52860e913ea64cb335fce3db8bab32c.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Teen Wallpaper",
+      "title":"go away",
+      "image":"https://i.pinimg.com/564x/8c/35/8e/8c358e5fb8e8ed88aefbe48f57942297.jpg"
+    },
+
+
+
+    {
+      "id":21,
+      "name_category": "Aesthetic",
+      "title":"aes1",
+      "image":"https://i.pinimg.com/564x/d4/3a/65/d43a65e5b0944a045ca694735461f3ef.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Aesthetic",
+      "title":"aes2",
+      "image":"https://i.pinimg.com/564x/d4/e5/5d/d4e55dc40c8de851ee4377b1f487674a.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Aesthetic",
+      "title":"aes3",
+      "image":"https://i.pinimg.com/564x/3f/3c/f5/3f3cf551c2e2a608d127b3d01ba39842.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Aesthetic",
+      "title":"aes4",
+      "image":"https://i.pinimg.com/564x/cc/cf/fd/cccffd565490fa9ae2c9bb4b66a4d760.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Aesthetic",
+      "title":"aes5",
+      "image":"https://i.pinimg.com/564x/0b/50/59/0b50594d5aa9a9c368e263cac0b5b69c.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Aesthetic",
+      "title":"aes6",
+      "image":"https://i.pinimg.com/564x/9a/b1/b6/9ab1b67dd32d24b71e400daf6d563acf.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Aesthetic",
+      "title":"aes7",
+      "image":"https://i.pinimg.com/564x/5d/a7/c1/5da7c11c8005cac6bfce6d767a30c47b.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Aesthetic",
+      "title":"aes8",
+      "image":"https://i.pinimg.com/736x/cf/1d/3f/cf1d3fc75c5f480dc49684d0ed903d6c.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Aesthetic",
+      "title":"aes9",
+      "image":"https://i.pinimg.com/736x/1a/6d/d8/1a6dd8dead059862c6864f1c42fe51f9.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Aesthetic",
+      "title":"aes10",
+      "image":"https://i.pinimg.com/750x/45/b7/91/45b791bc3c5800f096e6a7c2c98136cb.jpg"
+    },
+
+
+
+    {
+      "id":31,
+      "name_category": "Music",
+      "title":"music1",
+      "image":"https://i.pinimg.com/564x/4f/eb/9f/4feb9f5f60c5d0b87051473951456e37.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Music",
+      "title":"music2",
+      "image":"https://i.pinimg.com/564x/8e/4a/9c/8e4a9c1bee1edae807461180e9d1de78.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Music",
+      "title":"Harry Style1",
+      "image":"https://i.pinimg.com/564x/a2/02/d6/a202d6656a68b13bf5c9b73f9ab7498a.jpg"
+    },
+
+    {
+      "id":34,
+      "name_category": "Music",
+      "title":"bts",
+      "image":"https://i.pinimg.com/564x/d1/02/90/d102909c9a96ae59f96d29400cf96f09.jpg"
+    },
+
+    {
+      "id":35,
+      "name_category": "Music",
+      "title":"Billy",
+      "image":"https://i.pinimg.com/564x/f4/69/db/f469dbd7ae29a553a4b1f1494f7b57ae.jpg"
+    },
+
+    {
+      "id":36,
+      "name_category": "Music",
+      "title":"90s 1",
+      "image":"https://i.pinimg.com/564x/05/f7/d6/05f7d67d6005069393a0e149746fca69.jpg"
+    },
+
+    {
+      "id":37,
+      "name_category": "Music",
+      "title":"The Weekend",
+      "image":"https://i.pinimg.com/564x/2f/74/f2/2f74f266895cd209d31ceb78dc36c78b.jpg"
+    },
+
+    {
+      "id":38,
+      "name_category": "Music",
+      "title":"BrunO mARS",
+      "image":"https://i.pinimg.com/564x/b1/ed/68/b1ed68bbe057933bf2b5543c65811395.jpg"
+    },
+
+    {
+      "id":39,
+      "name_category": "Music",
+      "title":"wally34",
+      "image":"https://i.pinimg.com/564x/0f/85/4e/0f854efbc33b60b1dab1e9282b09e62a.jpg"
+    },
+
+    {
+      "id":40,
+      "name_category": "Music",
+      "title":"taylor swift",
+      "image":"https://i.pinimg.com/564x/92/32/ee/9232ee9c464b2bb45a7dc4e16b010865.jpg"
+    },
+
+
+
+    {
+      "id":41,
+      "name_category": "Superhero",
+      "title":"Cap1",
+      "image":"https://i.pinimg.com/564x/69/fb/96/69fb96ab138323e62c2bac47eee08456.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Superhero",
+      "title":"MoonKnight1",
+      "image":"https://i.pinimg.com/564x/e6/1c/bd/e61cbd39017e98d4e08b169ebeb89f43.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Superhero",
+      "title":"BlackPanther1",
+      "image":"https://i.pinimg.com/564x/86/ff/cf/86ffcf8838109cbe13ba4971f9efa2fe.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Superhero",
+      "title":"Spidy1",
+      "image":"https://i.pinimg.com/736x/70/99/f2/7099f2e6fba408ed66a7feb6f7e129b9.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Superhero",
+      "title":"Ironman2",
+      "image":"https://i.pinimg.com/736x/bc/33/82/bc33823033f6e42f9a43a96b57c5c8a3.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Superhero",
+      "title":"Spidy2",
+      "image":"https://i.pinimg.com/736x/2e/d7/e1/2ed7e1349388e909c3a867559f27b93b.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Superhero",
+      "title":"Logan1",
+      "image":"https://i.pinimg.com/564x/1c/be/72/1cbe72edf824842d9ce4c1ebf0804665.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Superhero",
+      "title":"Daredevil1",
+      "image":"https://i.pinimg.com/564x/d2/81/c6/d281c6e0a500d6808654f008afe9dd28.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Superhero",
+      "title":"Thor1",
+      "image":"https://i.pinimg.com/564x/a0/cf/0c/a0cf0c1ea6acb24d15946f04469783e9.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Superhero",
+      "title":"Hulk1",
+      "image":"https://i.pinimg.com/736x/f4/f9/fb/f4f9fb356decd61e39d572ef3e5c27b2.jpg"
+    }
+  ]
+}
